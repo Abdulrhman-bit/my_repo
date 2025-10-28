@@ -1,2 +1,1 @@
-console.log('Task Manager App
-console.log('Change from FEATURE branch');
+console.log('Version from MAIN branch');
